@@ -1,0 +1,20 @@
+.rightcontainer{
+    height: 100vh;
+    border: 1px solid grey;
+    
+}
+.leftcontainer{
+    height: 100vh;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.navbar{
+    border-radius:.5rem;
+    margin-top: .5rem;
+}
+.userlistcontainer{
+    display: flex;
+    flex-direction: column;
+}

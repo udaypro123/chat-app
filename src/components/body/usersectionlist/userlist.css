@@ -1,0 +1,32 @@
+.userlistbody{
+    box-shadow: 0px 0px 2px black;
+    height: 4rem;
+    display: flex;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    border-radius: .3rem;
+}
+.userlistboodyimg{
+    height: 100%;
+    width: 20%;
+    display: flex;  
+    justify-content: center;
+    align-items: center;  
+}
+.userlistboodyimg img{
+    height: 80%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.userbodyname{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.usernamestatus{
+    font-size: .8rem;
+}
